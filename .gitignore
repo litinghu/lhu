@@ -9,3 +9,5 @@ _site
 Gemfile.lock
 vendor
 ~/.vscode-root/storage.json
+~/.vscode-root/rapid_render.json
+~/.vscode-root/Cache/index-dir/the-real-index
