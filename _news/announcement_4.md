@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2020-09-16 07:59:00-0400
 inline: true
 ---
 
-A simple inline announcement.
+Our paper C16 got accepted by ACM/IFIP Middleware 2020.
+

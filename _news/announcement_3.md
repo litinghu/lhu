@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2020-11-15 07:59:00-0400
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I will serve as the Program Vice Co-Chair for the Distributed Operating Systems and Middleware track in [ICDCS 2021](https://icdcs2021.us/){:target="\_blank"}. Please consider submitting your work.
