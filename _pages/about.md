@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: Assistant Professor in <a href="http://cs.vt.edu/">Computer Science</a>.
 
 profile:
   align: right
