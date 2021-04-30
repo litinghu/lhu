@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Awards
-permalink: /projects/
+permalink: /awards/
 description: A growing collection of your cool projects.
 nav: true
 display_categories: [work, fun]
