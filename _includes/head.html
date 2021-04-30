@@ -38,13 +38,6 @@
 <!-- JQuery -->
 {% include scripts/jquery.html %}
 
-<!-- Theming-->
-{% if site.enable_darkmode %}
-  <script src="{{ '/assets/js/theme.js' | relative_url }}"></script>
-  <!-- Load DarkMode JS -->
-<script src="{{ '/assets/js/dark_mode.js' | relative_url }}"></script>
-{% endif %}
-
 {% if site.enable_google_analytics %}
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
