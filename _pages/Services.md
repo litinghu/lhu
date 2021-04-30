@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /research/
+permalink: /services/
 title: Services
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
 ---
 
-Research
+Services
