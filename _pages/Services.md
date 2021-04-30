@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /research/
-title: Research
+title: Services
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
 ---
